@@ -1,4 +1,4 @@
-
+import tensorflow as tf
 import tflite_runtime.interpreter as tflite
 from tensorflow.keras.preprocessing.image import load_img
 import numpy as np
